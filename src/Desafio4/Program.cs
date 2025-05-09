@@ -21,7 +21,7 @@
 
         foreach (var item in faturamentoPercentual)
         {
-            Console.WriteLine($"{item.Key} - {item.Value} %");
+            Console.WriteLine($"{item.Key} - {Value:F2} %");
         }
     }
 }
