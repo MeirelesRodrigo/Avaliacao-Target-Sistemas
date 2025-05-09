@@ -14,14 +14,12 @@
             else
             {
                 Console.WriteLine($"O número {number} não pertence a sequência Fibonacci");
-
             }
         }
         else
         {
             Console.WriteLine("Erro: Por favor, digite um número inteiro válido.");
         }
-
 
         static bool isFibonacci(int num)
         {
@@ -37,7 +35,6 @@
 
                 if (soma == num) return true;
             }
-
             return false;
         }
     }
