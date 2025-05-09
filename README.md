@@ -78,7 +78,7 @@ Desafio/
 ```
 ---
 ## 🔧 Como executar os desafios
-Para executar o projeto, é necessário definir o projeto como startup. Para isso:
+Para executar o projeto, é necessário definir o projeto desejado como startup. Para isso:
 
 No Visual Studio, clique com o botão direito no projeto desejado na Exploração de Soluções.
 Selecione "Definir como projeto de inicialização".
